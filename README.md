@@ -1,4 +1,4 @@
-# ShasheCoders Regional Summer Camp & Admissions Portal
+# ShasheCoders National Summer Camp & Admissions Portal
 
 Official admissions screening engine and administrative portal for the ShasheCoders 2026 Regional Summer Camp.
 
@@ -6,7 +6,7 @@ Official admissions screening engine and administrative portal for the ShasheCod
 
 ## 📌 Overview
 
-ShasheCoders is an intensive 12-week algorithm and software development initiative designed to screen regional applicants and select a fully sponsored 150-seat residential cohort (housing & meals provided).
+ShasheCoders is an intensive 7-week algorithm and software development initiative designed to screen regional applicants and select a fully sponsored 150-seat residential cohort (housing & meals provided).
 
 This platform handles:
 - Multi-step candidate registration (identity, academics, algorithmic assessments, and logistics).
