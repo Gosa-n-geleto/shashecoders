@@ -6,12 +6,12 @@ Official admissions screening engine and administrative portal for the ShasheCod
 
 ## 📌 Overview
 
-ShasheCoders is an intensive 12-week algorithm and software development initiative designed to screen regional applicants and select a fully sponsored 80-seat residential cohort (housing & meals provided).
+ShasheCoders is an intensive 12-week algorithm and software development initiative designed to screen regional applicants and select a fully sponsored 150-seat residential cohort (housing & meals provided).
 
 This platform handles:
 - Multi-step candidate registration (identity, academics, algorithmic assessments, and logistics).
 - Automated merit scoring engine based on GPA, national examination results, and data structure/algorithm logic responses.
-- Government-sponsored dormitory tracking (80-seat capacity limit enforcement).
+- Government-sponsored dormitory tracking (150-seat capacity limit enforcement).
 - Real-time instructor dashboard for candidate shortlisting, review, and status updates.
 - One-click CSV export for municipal stakeholders and camp coordinators.
 
